@@ -1,9 +1,11 @@
 # SSD-I-O-Trace-Analysis
 
 Analysis.py: meansure https://traces.cs.umass.edu/index.php/Storage/Storage
+
 MSR.py: meansure MSR Cambridge Traces: http://iotta.snia.org/traces/block-io/388
 
 MSR Trace:
+
 usr_0.csv:
 Write Count (Millions): 1.333
 Read Count (Millions): 0.904
